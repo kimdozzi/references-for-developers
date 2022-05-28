@@ -38,6 +38,10 @@
 
 ## Others
 * [Netlify](https://app.netlify.com/drop)
+* [무료 이미지 사이트](https://pixabay.com/ko/)
+* [Entity Code 참조 사이트](https://entitycode.com/)
+* [Can I Use](https://caniuse.com/)
+
 
 <br>
 
